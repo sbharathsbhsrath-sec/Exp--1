@@ -4,13 +4,13 @@
 To draw the UML diagram for ATM and Banking System.
 
 # SRS (Procedure):
-##Step 1: Problem Identification
-The main problem is the need for a fast, secure, and automated system that allows customers to perform banking transactions (like withdrawal, deposit, and fund transfer) without depending on bank staff.<br>
-Step 2: Requirement Analysis
+## Step 1: Problem Identification
+The main problem is the need for a fast, secure, and automated system that allows customers to perform banking transactions (like withdrawal, deposit, and fund transfer) without depending on bank staff.
+## Step 2: Requirement Analysis
 Identify user needs (customer, admin, staff).
 Define functional requirements: login, balance check, withdrawal, deposit, transfer, PIN change.
 Define non-functional requirements: speed, security, reliability, and usability.
-<br>Step 3: System Design
+## Step 3: System Design
 Draw UML diagrams to represent the system:
 Use Case Diagram
 Class Diagram
